@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TheMovieNow</string>
+    <string name="title_playing_now">Putar Sekarang</string>
+    <string name="title_most_popular">Populer</string>
+
+    <string name="Loading">Cargando...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

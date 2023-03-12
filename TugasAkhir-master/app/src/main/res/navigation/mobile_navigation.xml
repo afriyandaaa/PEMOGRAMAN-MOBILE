@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_playing_now">
+
+    <fragment
+        android:id="@+id/navigation_playing_now"
+        android:name="com.example.themooviedb.ui.playingNow.PlayingNowFragment"
+        android:label="@string/title_playing_now"
+        tools:layout="@layout/fragment_playing_now" />
+
+    <fragment
+        android:id="@+id/navigation_most_popular"
+        android:name="com.example.themooviedb.ui.mostPopular.MostPopularFragment"
+        android:label="@string/title_most_popular"
+        tools:layout="@layout/fragment_most_popular" />
+
+</navigation>

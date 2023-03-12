@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--program ini bok untuk menampilkan app_name-->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_title"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="8dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginRight="8dp"
+    android:background="#2196F3"
+    android:padding="8dp"
+    android:text="Lorem ipsum"
+    android:textColor="@color/black"
+    android:textSize="22sp"
+    android:textStyle="bold" />

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MySoccer</string>
+    <string name="pemain_name">Pemain Name</string>
+    <string name="description">Description</string>
+</resources>
